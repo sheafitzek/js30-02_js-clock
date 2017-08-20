@@ -1,0 +1,23 @@
+{
+  "name": "js30-2_js-clock",
+  "version": "1.0.0",
+  "description": "An Analog Javascript Clock",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheafitzek/js30-2_js-clock.git"
+  },
+  "author": "Shea Fitzek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheafitzek/js30-2_js-clock/issues"
+  },
+  "homepage": "https://github.com/sheafitzek/js30-2_js-clock",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
